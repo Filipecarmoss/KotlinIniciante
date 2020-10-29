@@ -1,3 +1,6 @@
 Kotlin para iniciantes
 
+Aluno: Jean Douglas
+Kotlin: O Kotlin agora é uma linguagem de programação oficial para o desenvolvimento de aplicativos Android.
 
+-------------------------------------------------------
